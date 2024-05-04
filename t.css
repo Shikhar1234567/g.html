@@ -1,0 +1,32 @@
+.head{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px rgb(58, 59, 59);
+    border-radius: 6px;
+    width: max-content;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#id1{
+    color: olivedrab;
+    background-color: aqua;
+}
+#id6{
+    font-style: italic;
+    color: rgb(97, 49, 160);
+    margin-bottom: 20px;
+}
+.table{
+    border: 2px solid lightgreen;
+    border-radius: 6px;
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+td{
+    border: 3px solid yellow;
+    border-radius: 3px;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+}

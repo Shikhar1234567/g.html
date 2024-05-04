@@ -1,0 +1,46 @@
+.nav {
+    background-color: aqua;
+    overflow: auto;
+    border: 6px;
+    border-radius: 33px;
+}
+
+.nav li {
+    float: left;
+    list-style: none;
+    width: max-content;
+    margin: auto;
+    padding: 10px;
+}
+
+.nav li a {
+    color: rgb(18, 18, 16);
+    width: max-content;
+    text-decoration: none;
+    font-size: large;
+    cursor: pointer;
+}
+
+.nav ul {
+    width: max-content;
+    margin: auto;
+    float: left;
+}
+
+a:hover {
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: rgb(224, 195, 30);
+}
+
+a:active {
+    background-color: crimson;
+    font-style: italic;
+}
+
+.nav input{
+    float: right;
+    border-radius: 10px;
+    margin: 10px;
+    margin-right: 40px;
+}

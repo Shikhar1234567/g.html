@@ -1,0 +1,38 @@
+.cl{
+    border: solid 3px lightgoldenrodyellow;
+    border-radius: 4px;
+    width: 500px;
+    margin: auto;
+}
+#id1{
+    margin-top: 6px;
+}
+#id2{
+    margin-top: 6px;
+}
+#id3{
+    margin-top: 6px;
+}
+#id4{
+    margin-top: 6px;
+}
+#id5{
+    border: 1px whitesmoke;
+    width: fit-content;
+    margin: auto;
+}
+.head{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+fieldset{
+    border: 4px solid greenyellow;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+}
+button{
+    margin-left:6px;
+    margin-top: 8px;
+    margin-right: 6px;
+}
